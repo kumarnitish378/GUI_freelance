@@ -1,0 +1,2 @@
+#	Ef1	Ef2	nu_f	Gf	Em	nu_m	Vf
+Values	230	15	0.2	15	5.35	0.35	0.533
